@@ -37,7 +37,7 @@ You can check the tests/index.php for more information.
 
 ## Authors
 
-* **Alfonso Carvallo** - *Everything you see* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Alfonso Carvallo** - *The answers you seek, lie within*
 
 See also the list of [contributors](https://github.com/elratauru/validate-ci/contributors) who participated in this project.
 
