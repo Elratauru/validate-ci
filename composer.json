@@ -1,0 +1,24 @@
+{
+    "name": "Elratauru/ValidateCI",
+    "require": {
+        "php" : "^5.5 || ^7.0"
+    },
+    "type": "library",
+    "description": "Uruguayan ID Validation for PHP",
+    "keywords": ["validation","id","uruguay","cédula","ci"],
+    "homepage": "https://github.com/Elratauru/validate-ci/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfonso Carvallo",
+            "email": "alforata@gmail.com",
+            "homepage": "https://github.com/Elratauru/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ValidateCI\\": "src/ValidateCI"
+        }
+    }
+}
